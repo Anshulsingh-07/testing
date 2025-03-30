@@ -277,7 +277,7 @@
 //   printf("enter the number n taken from user :",n);
 //   scanf("%d",&n);
 //   int sum = 0;
-//   for (int i =1;i<=n;i++){
+//   for (int i =1;i<=an;i++){
 //     sum = sum+i;
 //   }
 //   printf("%d",sum);
@@ -350,6 +350,4 @@ int main(){
 
 
   
-
-shdugd
-  
+nindvivdn
